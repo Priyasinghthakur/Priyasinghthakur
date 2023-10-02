@@ -1,5 +1,5 @@
 ### <div align="center">Hey ✋ I'm Priya Singh
-   Software Engineer || Frontend Developer || Data Analytics </div>  
+                                   Software Engineer || Frontend Developer || Data Analytics </div>  
   
 
 - 🎓 I’m a final-year engineering student passionate about coding and building web applications.  
